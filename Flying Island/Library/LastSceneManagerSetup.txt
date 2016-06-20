@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/flying_island/flying_island.unity
+  isLoaded: 1
+  isActive: 1

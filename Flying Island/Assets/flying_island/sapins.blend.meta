@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: d50bfe445831140429742310b72cec27
+timeCreated: 1464716519
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: sapin_branche
+    100002: sapin_branche_001
+    100004: sapin_branche_002
+    100006: sapin_branche_003
+    100008: sapin_branche_004
+    100010: sapin_branche_005
+    100012: sapin_tronc
+    100014: //RootNode
+    100016: sapin_branche_000
+    100018: sapin_branche_006
+    100020: sapin_branche_007
+    100022: sapin_branche_008
+    100024: sapin_branche_009
+    100026: sapin_branche_010
+    100028: sapin_branche_011
+    100030: sapin_branche_012
+    100032: sapin_branche_013
+    100034: sapin_branche_014
+    100036: sapin_branche_015
+    100038: sapin_branche_016
+    100040: sapin_branche_017
+    400000: sapin_branche
+    400002: sapin_branche_001
+    400004: sapin_branche_002
+    400006: sapin_branche_003
+    400008: sapin_branche_004
+    400010: sapin_branche_005
+    400012: sapin_tronc
+    400014: //RootNode
+    400016: sapin_branche_000
+    400018: sapin_branche_006
+    400020: sapin_branche_007
+    400022: sapin_branche_008
+    400024: sapin_branche_009
+    400026: sapin_branche_010
+    400028: sapin_branche_011
+    400030: sapin_branche_012
+    400032: sapin_branche_013
+    400034: sapin_branche_014
+    400036: sapin_branche_015
+    400038: sapin_branche_016
+    400040: sapin_branche_017
+    2300000: sapin_branche
+    2300002: sapin_branche_001
+    2300004: sapin_branche_002
+    2300006: sapin_branche_003
+    2300008: sapin_branche_004
+    2300010: sapin_branche_005
+    2300012: sapin_tronc
+    2300014: sapin_branche_000
+    2300016: sapin_branche_006
+    2300018: sapin_branche_007
+    2300020: sapin_branche_008
+    2300022: sapin_branche_009
+    2300024: sapin_branche_010
+    2300026: sapin_branche_011
+    2300028: sapin_branche_012
+    2300030: sapin_branche_013
+    2300032: sapin_branche_014
+    2300034: sapin_branche_015
+    2300036: sapin_branche_016
+    2300038: sapin_branche_017
+    3300000: sapin_branche
+    3300002: sapin_branche_001
+    3300004: sapin_branche_002
+    3300006: sapin_branche_003
+    3300008: sapin_branche_004
+    3300010: sapin_branche_005
+    3300012: sapin_tronc
+    3300014: sapin_branche_000
+    3300016: sapin_branche_006
+    3300018: sapin_branche_007
+    3300020: sapin_branche_008
+    3300022: sapin_branche_009
+    3300024: sapin_branche_010
+    3300026: sapin_branche_011
+    3300028: sapin_branche_012
+    3300030: sapin_branche_013
+    3300032: sapin_branche_014
+    3300034: sapin_branche_015
+    3300036: sapin_branche_016
+    3300038: sapin_branche_017
+    4300000: sapin_branche
+    4300002: sapin_tronc
+    4300004: sapin_branche_001
+    4300006: sapin_branche_002
+    4300008: sapin_branche_003
+    4300010: sapin_branche_004
+    4300012: sapin_branche_005
+    4300014: sapin_branche_000
+    4300016: sapin_branche_006
+    4300018: sapin_branche_007
+    4300020: sapin_branche_008
+    4300022: sapin_branche_009
+    4300024: sapin_branche_010
+    4300026: sapin_branche_011
+    4300028: sapin_branche_012
+    4300030: sapin_branche_013
+    4300032: sapin_branche_014
+    4300034: sapin_branche_015
+    4300036: sapin_branche_016
+    4300038: sapin_branche_017
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
